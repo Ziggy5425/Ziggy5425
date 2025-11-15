@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ziggy5425
 - 👀 I’m interested in ...anything crypto related.  DEFI is my passion
-- 🌱 I’m currently learning ...Block chain through the university of buffalo
-- 💞️ I’m looking to collaborate on ...unifying the cosmos
+- 🌱 Always learning
+- 💞️ Building on Base
 - 📫 How to reach me ...@mziegler25 on X 
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...🤣
 - ⚡ Fun fact: ...
 
 <!---
